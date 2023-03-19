@@ -15,11 +15,17 @@ To conclude,  DevOps culture seeks to promote a more collaborative, efficient, a
 The Software Development Life Cycle (SDLC) is a well-established process utilized by the software industry to design, develop, and test software applications to ensure they meet high-quality standards. The primary objective of SDLC is to create software that not only meets or surpasses customer expectations but is also completed within estimated timelines and budgetary constraints.
 
 The process of software development involves multiple stages to ensure that the final product is of the highest quality and meets the needs of the users.
+
 The first stage is **requirements gathering and analysis**, where the development team talks with stakeholders to understand their needs and gather the necessary requirements. During this stage, the team ensures that the requirements are clear, concise, and achievable.
+
 The next stage is **Design**,where the team creates a detailed plan for the software application. This includes determining the software's architecture, interface design, and data models.
-Once the design is complete, the **Development** process begins in which the development team begins writing the code for the software application, following the coding standards and design specifications.
+
+Once the design is complete, the **Development** process begins in which the development team begins writing the code for the software application, following the coding standards and design specifications
+.
 After the development stage the **Testing** phase begins, the software is tested thoroughly for bugs, defects, and errors. This includes a range of testing types, such as unit testing, integration testing, system testing, and acceptance testing.
+
 If the software application passes the testing stage successfully, it's then deployed to production, where it's made available to the end-users and this phase is called **Deployment phase**.
+
 Finally, the software application is monitored and maintained after deployment to ensure that it continues to function as expected. This includes fixing any bugs or errors that may arise, as well as providing updates and enhancements to improve the user experience this is the last phase of Software development life cycle and is called **Maintenance phase**.
 
 There are several types of software development lifecycles, each with its own approach and set of stages. Some of the most commonly used software development lifecycles include:
@@ -32,5 +38,5 @@ However, the Waterfall model has some limitations. It is rigid and inflexible an
 To overcome these limitations, a new approach to software development was needed, which gave birth to the Agile model. The Agile model is an iterative approach that emphasizes collaboration, flexibility, and rapid development. Agile development cycles are shorter, and feedback from stakeholders is taken throughout the project, which helps in continuous improvement and course correction.
 Agile development is based on a bottom-up approach, where the development team and stakeholders work together to identify and prioritize requirements, which are then broken down into smaller deliverables called sprints. Each sprint results in a working software increment that is tested, reviewed, and improved upon in the next sprint. Agile model allows for changes and modifications to be made at any stage of the development process based on the feedback received from stakeholders. This makes the Agile model more adaptable to changing requirements and ensures that the end product meets the customer's needs.
 
-*In summary, the Waterfall model is a linear and sequential approach, which is suitable for projects with well-defined requirements and a fixed budget and timeline. On the other hand, Agile model is an iterative approach that emphasizes flexibility, adaptability, and rapid development, which makes it more suitable for projects with rapidly changing requirements and a need for frequent feedback and collaboration.
+*In summary, the Waterfall model is a linear and sequential approach, which is suitable for projects with well-defined requirements and a fixed budget and timeline. On the other hand, Agile model is an iterative approach that emphasizes flexibility, adaptability, and rapid development, which makes it more suitable for projects with rapidly changing requirements and a need for frequent feedback and collaboration.*
 
