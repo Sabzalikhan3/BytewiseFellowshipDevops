@@ -1,0 +1,9 @@
+TDD and DBB are two different software development methodologies.
+
+TDD, or Test Driven Development, is a software development approach that emphasizes writing automated tests before writing the code itself. The process begins by creating a test case that describes the desired behavior of a specific feature. The developer then writes the code to satisfy that test case, ensuring that the feature is working as intended. Once the code is written, it is then refactored to optimize its structure and ensure its maintainability. TDD is an iterative process that allows for continuous improvement throughout the development cycle.
+
+DBB, or Design-Bid-Build, is a traditional project delivery method in the construction industry. It involves a linear process in which the project owner hires an architect to design the project, then puts the design out to bid for contractors to build. The chosen contractor then builds the project according to the specifications provided in the design. DBB is a sequential process that emphasizes a clear separation between design and construction.
+
+The main difference between TDD and DBB is their approach to development. TDD is an iterative process that emphasizes testing and refactoring throughout the development cycle. It allows for continuous improvement and flexibility in adapting to changing requirements. DBB, on the other hand, is a sequential process that follows a predetermined plan, with little room for flexibility or adaptation.
+
+In conclusion, TDD and DBB are two different software development methodologies that take different approaches to the development process. TDD emphasizes testing and refactoring throughout the development cycle, while DBB is a sequential process that follows a predetermined plan. Both approaches have their strengths and weaknesses and are better suited to different types of projects and development teams.
